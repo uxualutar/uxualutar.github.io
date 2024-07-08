@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uxualutar.github.io/sitemap
+Sitemap: https://uxualutar.github.io/app/sitemap
+Sitemap: https://uxualutar.github.io/assets/sitemap
+Sitemap: https://uxualutar.github.io/css/sitemap
+Sitemap: https://uxualutar.github.io/includes/sitemap
+Sitemap: https://uxualutar.github.io/item/sitemap
+Sitemap: https://uxualutar.github.io/src/sitemap
